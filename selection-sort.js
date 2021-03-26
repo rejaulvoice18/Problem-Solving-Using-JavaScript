@@ -25,8 +25,3 @@ function selectionSort(array){
     console.log(selectionSort(arrayTest3));
     console.log(selectionSort(arrayTest4));
 })()
-
-// const arrayTest1 = [90, 800, 20, 400, 300, 80, 30, 19, 2, 1];
-// const arraySort = selectionSort(arrayTest1);
-
-// console.log(arraySort);
